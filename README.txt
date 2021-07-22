@@ -1,0 +1,1 @@
+you can find apk path from app\release 
